@@ -14,5 +14,5 @@ Compilando
 
 Rodando
 ```bash
-././secret-number
+./secret-number
 ```
