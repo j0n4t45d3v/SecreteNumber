@@ -3,6 +3,8 @@
 ## Conhecimentos Usados 
 - variaveis
 - loops
+- condicionais
+- tipos de dados
 - input e output
 
 ## Como rodar
